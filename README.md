@@ -1,2 +1,14 @@
-# jenkins_aws
-jenkins aws 실습 repo
+# Lecture
+
+## Website
+
+```sh
+```
+
+## Server
+
+```sh
+npm init
+npm install -D typescript
+npm i -S express jest
+```
